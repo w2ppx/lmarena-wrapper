@@ -13,8 +13,6 @@ functions
 models
 - models are read from `models.json`, to get new models extract them from <script> on lmarena.ai page.
 
-known bugs:
-- token updating is still not done, so you'll have to replace them manually once they expired, i will try to solve this soon.
 
 ### враппер над lmarena (ru)
 
@@ -30,6 +28,3 @@ cookies
 
 модели
 - модели читаются из `models.json`, для получения нового списка вытащите его из <script> на lmarena.ai
-
-известные баги:
-- обновление cookies пока не реализовано, поэтому их придется обновлять вручную, постараюсь это реализовать в ближайшее время
